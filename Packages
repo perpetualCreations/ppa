@@ -1,0 +1,18 @@
+Package: deargodpleaseno
+Version: 1.0
+Architecture: all
+Essential: no
+Maintainer: perpetualCreations <tchen0584@gmail.com>
+Installed-Size: 1024
+Depends: python3 (>= 3.7.3-1), apache2 (>=2.4.41-4ubuntu3.1)
+Filename: ./deargodpleaseno_1.0_all.deb
+Size: 2844
+MD5sum: 0846bf6bf582a6a9c4ffe74a203c8308
+SHA1: b72d0df2d8f184f01fd0014dcdf93f23eaa6a4eb
+SHA256: 0c4df02a5db341036603f42007abd1d34bc63ea4d5c2700c27445f65627d2f5e
+Section: custom
+Priority: optional
+Homepage: https://dreamerslegacy.xyz/
+Description: Tool for hosting files and pages temporarily on Apache in a directory inside the webroot.
+ Good if you want to host an academic website project for a week, and then have it disappear off the web.
+
