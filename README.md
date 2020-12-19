@@ -1,6 +1,8 @@
 # ppa
 Personal package archive (PPA), add to APT to install its offerings.
 
+Do not use perpetualcreations.github.io/ppa.
+
 ## Install
 To add the archive repository, run:
 ```commandline
