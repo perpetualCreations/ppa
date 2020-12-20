@@ -6,10 +6,10 @@ Maintainer: perpetualCreations <tchen0584@gmail.com>
 Installed-Size: 1024
 Depends: python3 (>= 3.7.3-1), apache2 (>=2.4.41-4ubuntu3.1)
 Filename: ./deargodpleaseno_1.0_all.deb
-Size: 2980
-MD5sum: 3fb6195258ef1c8293ec66530c4595d5
-SHA1: bacb92cec15ec99eeca1c1d74b1d35680663fa81
-SHA256: 28ad9281fbdc306f4e524d195815937dae7059ed53f74f6f1ccc300c4b40385d
+Size: 2976
+MD5sum: b23a1f459554a68635948eb70d95b5a2
+SHA1: 976fa3c134cd71ee3457e90f3d0aeeb508b6e699
+SHA256: 04adff18ecf6b56751d061990cec5d580b4066bae5e33dc646389184eabbec6f
 Section: custom
 Priority: optional
 Homepage: https://dreamerslegacy.xyz/
