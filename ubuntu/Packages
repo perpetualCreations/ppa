@@ -16,3 +16,19 @@ Homepage: https://dreamerslegacy.xyz/
 Description: Tool for hosting files and pages temporarily on Apache in a directory inside the webroot.
  Good if you want to host an academic website project for a week, and then have it disappear off the web.
 
+Package: raspbotrca-host
+Version: 1.2
+Architecture: all
+Essential: no
+Maintainer: perpetualCreations <tchen0584@gmail.com>
+Depends: python3 (>= 3.7.3-1)
+Filename: ./raspbotrca-host_1.2_all.deb
+Size: 15696
+MD5sum: aa760f2cb4027d5fc9f8929f2eb336c5
+SHA1: 8aadd2c5f5c77dd6e7be65058a5f2089763a427b
+SHA256: 596b609f84cd0aed7bf0ec8b988488a3c42fd8e58a7255eb138d4688d09bdac7
+Section: custom
+Priority: optional
+Homepage: https://dreamerslegacy.xyz/
+Description: Host application for controlling Raspbot.
+
