@@ -24,9 +24,9 @@ Maintainer: perpetualCreations <tchen0584@gmail.com>
 Depends: python3 (>= 3.7.3-1)
 Filename: ./raspbotrca-host_1.2_all.deb
 Size: 15864
-MD5sum: 905e33b65a2eca59b6b8531fd4059d72
-SHA1: 0a009d77a93384b2ecb4747411d81e24be5243a5
-SHA256: 004ff1ecb8e2fa3f61c49840ad80f912c7f718795f50858d0f8e48d2eb4f3f51
+MD5sum: f2f8ed5c46152113c6c408d8a0e3fe4e
+SHA1: d1d305d5484556985d3bc8defdc90774a4eb745e
+SHA256: d24bf3acfa8e3595a87f7d608f3c41c8d3acd748020b80d16d7b1bfde400b79b
 Section: custom
 Priority: optional
 Homepage: https://dreamerslegacy.xyz/
